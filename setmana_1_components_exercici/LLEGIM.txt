@@ -1,8 +1,6 @@
-Aixo ja va en serio.
-
 Per fer aquest exercici, heu de consultar les instruccions a:
 
-src/test/java/org/formacio/Setmana1Tests.java
+src/test/java/org/formacio/ComponentsTests.java
 
 No heu de modificar res del test. Tot el que heu de modificar es a src/main/java
 
